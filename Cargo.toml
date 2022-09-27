@@ -1,0 +1,10 @@
+[package]
+name = "borsh-backwards-compatibility-example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+borsh = "0.9"
+
+[dev-dependencies]
+hex = "0.4"
